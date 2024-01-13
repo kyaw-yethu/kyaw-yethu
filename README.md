@@ -1,9 +1,9 @@
 ### Hello World, This is Ye Thu 👨‍💻
 
-I am a Burmese🇲🇲 undergraduate studying computer science and BTM (Business & Technology Management) at KAIST🇰🇷. In particular, my current focus lies in two domains:
-- 🤖 **artificial intelligence**
+I am a Burmese🇲🇲 undergraduate studying computer science and BTM (Business & Technology Management) at KAIST🇰🇷. In particular, my main interests lie in two domains:
+- 🤖 **artificial intelligence** 
 - 🏫 **technology-aided education**
-Concretely,
+In other words, I aspire to keep one foot on academia doing research about **intelligence in machines and how it can have fruitful interaction with humans** while keeping another foot on **entrepreneurship related to education**.
 
 [![Ye Thu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyawYeThu-11)](https://github.com/KyawYeThu-11/github-readme-stats)
 
