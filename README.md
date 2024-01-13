@@ -3,17 +3,17 @@
 I am a Burmese🇲🇲 undergraduate studying computer science and BTM (Business & Technology Management) at KAIST🇰🇷. In particular, my main interests lie in two domains:
 - 🤖 **artificial intelligence** 
 - 🏫 **technology-aided education**
+
 In other words, I aspire to keep one foot on academia doing research about **intelligence in machines and how it can have fruitful interaction with humans** while keeping another foot on **entrepreneurship related to education**.
 
-[![Ye Thu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyawYeThu-11)](https://github.com/KyawYeThu-11/github-readme-stats)
 
 ### Programming Skills
 <!-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> -->
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow)
 ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/HTML-F7DF1E?style=flat-square&logo=html&logoColor=red)
-![](https://img.shields.io/badge/CSS-F7DF1E?style=flat-square&logo=css&logoColor=green)
+![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 #### Frameworks
 <!-- <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> -->
