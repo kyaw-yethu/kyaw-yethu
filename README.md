@@ -3,7 +3,6 @@
 I am a Burmese 🇲🇲 computer science undergraduate at KAIST🇰🇷, who loves building intelligent systems that can solve humans' problems. Therefore, my technical interest encompasses 
 - 🤖 **artificial intelligence** in general
 - 🖥️ **computer architectures for accelerated computing**
-Starting with writing AI for games because I thought it was cool, I have become a strong believer that AI can solve various global problems to a great extent. 
 
 Apart from my research interest, another life-long goal of mine is to actively work on **📚💡accessibility to quality education for everyone**. To this end, I expect having to figure out ways to deliver education to under-served communities and advance educational tools to improve the quality of education.
 
