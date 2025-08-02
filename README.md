@@ -1,13 +1,11 @@
-### Hello World, This is Ye Thu 👨‍💻
+### Hello World 👨‍💻
 
-I’m Kyaw Ye Thu from Myanmar🇲🇲, a junior undergraduate at the School of Computing of KAIST🇰🇷. My focus in CS has been mostly AI in general. Currently, my emphasis is on 
+I’m Kyaw Ye Thu from Myanmar🇲🇲, a senior undergraduate at the School of Computing of KAIST🇰🇷, interested in **AI, computer graphics, and computer architectures**. In other words, I like **solving intelligence and graphics-related problems from the persepctives of both hardware and algorithms**. The following are some specific topics that I'd love to do research about.
 
-- 🤖system for AI to accelerate training models
-- 🖥️visual computing to create virtual environments for education and entertainment purpose
+1. System for AI to train models efficiently
+2. Efficient neural rendering
 
-In other words, I’m interested in tackling intelligence and graphics-related problems from the persepctives of both hardware and algorithms. 
-
-Aside from my technical attention, I'm also eager in social initiatives working on **📚💡accessibility to quality education especially especially for underserved communities**. 
+Aside from my technical interests, I'd love to help people gain access to **quality education, especially for underserved communities**.
 
 📫 Reach out to me if you want to find ways to work together, whether about a software product, a research topic, a social initiative or anything else!
 
