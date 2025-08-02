@@ -1,15 +1,11 @@
 ### Hello World 👨‍💻
 
-I’m Kyaw Ye Thu from Myanmar🇲🇲, a senior undergraduate at the School of Computing of KAIST🇰🇷, interested in **AI, computer graphics, and computer architectures**. In other words, I like **solving intelligence and graphics-related problems from the persepctives of both hardware and algorithms**. The following are some specific topics that I'd love to do research about.
+I’m Kyaw Ye Thu from Myanmar🇲🇲, a senior undergraduate at the School of Computing of KAIST🇰🇷. I'm interested in **solving 🧠computer intelligence and 🖼️graphics related problems from both system and algorithmic perspectives**. The following are some specific topics that I'd love to do research about.
 
 1. System for AI to train models efficiently
 2. Efficient neural rendering
 
-Aside from my technical interests, I'd love to help people gain access to **quality education, especially for underserved communities**.
-
-📫 Reach out to me if you want to find ways to work together, whether about a software product, a research topic, a social initiative or anything else!
-
-
+📫 I love collaborating with passionate people. Reach out to me if you want to find ways to work together, whether about a software product, a research topic, a social initiative or anything else!
 
 #### Programming Skills
 <!-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> -->
