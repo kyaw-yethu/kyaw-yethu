@@ -2,8 +2,10 @@
 
 I’m Kyaw Ye Thu from Myanmar🇲🇲, a senior undergraduate at the School of Computing of KAIST🇰🇷. I'm interested in **solving 🧠computer intelligence and 🖼️graphics related problems from both system and algorithmic perspectives**. The following are some specific topics that I'd love to do research about.
 
-1. System for AI to train models efficiently
-2. Efficient neural rendering
+My research interests include but not limited to
+1. **Computer Graphics**: _How do we design an efficient rendering pipeline for a game engine? ..._
+2.  **Computer Vision**: _How do we enable machines to understand a large video? What applications are possible given access to a lot of videos? ..._
+3. **Machine Cognition**: _How do we achieve AGI beyond Transformer-based architectures? How gaming data can be used as training data to instill physics constraints for 3D agents?..._
 
 📫 I love collaborating with passionate people. Reach out to me if you want to find ways to work together, whether about a software product, a research topic, a social initiative or anything else!
 
@@ -14,7 +16,6 @@ I’m Kyaw Ye Thu from Myanmar🇲🇲, a senior undergraduate at the School of 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=plastic)
@@ -23,9 +24,8 @@ I’m Kyaw Ye Thu from Myanmar🇲🇲, a senior undergraduate at the School of 
 <!-- <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> -->
 
 ![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
-![](https://img.shields.io/badge/-TensorFlow-yellow?style=flat-square&logo=TensorFlow&logoColor=orange)
 ![](https://img.shields.io/badge/Django-339933?style=flat-square&logo=Django&logoColor=white)
-
+![](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
 
 #### Tools
 <!-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> -->
