@@ -1,11 +1,11 @@
 ### Hello World 👨‍💻
 
-I’m Kyaw Ye Thu from Myanmar🇲🇲, a senior undergraduate at the School of Computing of KAIST🇰🇷. I'm interested in **solving 🧠computer intelligence and 🖼️graphics related problems from both system and algorithmic perspectives**. The following are some specific topics that I'd love to do research about.
+I’m Kyaw Ye Thu from Myanmar🇲🇲, a senior undergraduate at the School of Computing of KAIST🇰🇷.
 
-My research interests include but not limited to
-1. **Computer Graphics**: _How do we design an efficient rendering pipeline for a game engine? ..._
-2.  **Computer Vision**: _How do we enable machines to understand a large video? What applications are possible given access to a lot of videos? ..._
-3. **Machine Cognition**: _How do we achieve AGI beyond Transformer-based architectures? How gaming data can be used as training data to instill physics constraints for 3D agents?..._
+My **research interests** span two realms primarily, visual computing and physical AI, with the latter informed by the former. 
+
+1. **Visual Computing**📷: I am gravitated towards computer graphics, from various rendering techniques to 3D scene reconstruction consistent in appearance, geometry, and physics.
+2.  **Physical AI**🦾: I am particularly interested in training agents to perceive, plan, and act within 3D spaces and creating systems (eg. simulators) for enabling such.
 
 📫 I love collaborating with passionate people. Reach out to me if you want to find ways to work together, whether about a software product, a research topic, a social initiative or anything else!
 
@@ -26,6 +26,7 @@ My research interests include but not limited to
 ![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
 ![](https://img.shields.io/badge/Django-339933?style=flat-square&logo=Django&logoColor=white)
 ![](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
+![](https://img.shields.io/badge/ROS2-Humble-blue?logo=ros)
 
 #### Tools
 <!-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> -->
