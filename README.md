@@ -2,12 +2,14 @@
 
 I’m Kyaw Ye Thu from Myanmar🇲🇲, a senior undergraduate at the School of Computing of KAIST🇰🇷.
 
-My **research interests** span two realms primarily, visual computing and physical AI, with the latter informed by the former. 
+My **research interests** span two realms primarily, **visual computing** and **physical AI**, with the latter informed by the former. 
 
 1. **Visual Computing**📷: I am gravitated towards computer graphics, from various rendering techniques to 3D scene reconstruction consistent in appearance, geometry, and physics.
 2.  **Physical AI**🦾: I am particularly interested in training agents to perceive, plan, and act within 3D spaces and creating systems (eg. simulators) for enabling such.
 
-📫 I love collaborating with passionate people. Reach out to me if you want to find ways to work together, whether about a software product, a research topic, a social initiative or anything else!
+📫 I love collaborating with passionate people. Reach out to me if you want to find ways to work together!
+
+> I'm currently working on reconstructing physically plausible multi-object 3D scenes and developing a MPM simulator that is easily generalizable for different objects of varying quantities. The code and data will be fully open-sourced. Please stay tune!
 
 #### Programming Skills
 <!-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> -->
