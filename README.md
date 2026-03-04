@@ -9,7 +9,7 @@ My **research interests** span two realms primarily, **visual computing** and **
 
 📫 I love collaborating with passionate people. Reach out to me if you want to find ways to work together!
 
-> I'm currently working on reconstructing physically plausible multi-object 3D scenes and developing a MPM simulator that is easily generalizable for different objects of varying quantities. The code and data will be fully open-sourced. Please stay tune!
+> I'm currently working on reconstructing physically plausible multi-object 3D scenes and developing a MPM simulator that is easily generalizable for different objects of varying quantities. The code and data will be fully open-sourced. Stay tune👀!
 
 #### Programming Skills
 <!-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> -->
