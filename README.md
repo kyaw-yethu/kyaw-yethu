@@ -2,10 +2,10 @@
 
 I’m Kyaw Ye Thu from Myanmar🇲🇲, a senior undergraduate at the School of Computing of KAIST🇰🇷.
 
-My **research interests** span two realms primarily, **visual computing** and **physical AI**, with the latter informed by the former. 
+My **research interests** span two realms primarily, **Computer Graphics** and **Physical AI**, with the latter informed by the former. 
 
-1. **Visual Computing**📷: I am gravitated towards computer graphics, from various rendering techniques to 3D scene reconstruction consistent in appearance, geometry, and physics.
-2.  **Physical AI**🦾: I am particularly interested in training agents to perceive, plan, and act within 3D spaces and creating systems (eg. simulators) for enabling such.
+1. **Computer Graphics**📷: Various rendering techniques, 3D scene reconstruction consistent in appearance, geometry, and physics
+2.  **Physical AI**🦾: Training agents to perceive, plan, and act within 3D spaces, Building systems (eg. simulators) for enabling such.
 
 📫 I love collaborating with passionate people. Reach out to me if you want to find ways to work together!
 
