@@ -9,7 +9,7 @@ My **research interests** span two realms primarily, **Computer Graphics** and *
 
 📫 I love collaborating with passionate people. Reach out to me if you want to find ways to work together!
 
-> I'm currently working on reconstructing physically plausible multi-object 3D scenes and developing a MPM simulator that is easily generalizable for different objects of varying quantities. The code and data will be fully open-sourced. Stay tune👀!
+> I'm currently working on reconstructing physically plausible multi-object 3D scenes and developing a MPM simulator that is easily generalizable for different objects of varying quantities. The code and data will be fully open-sourced. The preview is available through [here](https://kyaw-yethu.github.io/physics-multiobj-3DRecon/) and stay tune👀!
 
 #### Programming Skills
 <!-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> -->
